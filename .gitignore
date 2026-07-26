@@ -1,0 +1,11 @@
+.env
+video_cache/
+__pycache__/
+*.pyc
+
+
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
